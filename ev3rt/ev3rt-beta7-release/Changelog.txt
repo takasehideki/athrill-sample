@@ -1,3 +1,5 @@
+add tiny comment by takasehideki
+
 2017-04-12 Version Beta 7
 * Sensors
  - Support IR (infrared) sensor
